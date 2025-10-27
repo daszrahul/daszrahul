@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daszrahul
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CI/CD
+- 🌱 I’m currently procrastinating !!
 - 📫 How to reach me on dasz.rahull@gmail.com
 
 <!---
